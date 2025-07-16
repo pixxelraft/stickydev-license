@@ -1,0 +1,1 @@
+# stickydev-license
